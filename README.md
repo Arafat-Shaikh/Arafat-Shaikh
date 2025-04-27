@@ -13,9 +13,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Javascript, React, Redux, Express, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Javascript, Typescript, Next.js,tailwindcss, shadcn, Docker, LLM Api's, React, Redux, Express, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **full-stack.**
+- 🌱 I’m currently learning **Building AI integrations.**
 
 - ☁️ I've keen interest technology. So,I'm exploring...
 
